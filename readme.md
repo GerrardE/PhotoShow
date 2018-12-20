@@ -1,20 +1,20 @@
-<p align="center">Larabiz Application<img src="#"></p>
+<p align="center">PhotoShow<img src="#"></p>
 
-## About Larabiz Application
+## About PhotoShow
 
-[Larabiz Application] is a simple web application for displaying business listings. Each business listing contains details about the business.
+[PhotoShow] is a simple web application for displaying images. The album is a collection of photos, all taking the form of a simple gallery. You can create an album, upload photos to the album and also delete photos.
 
 - [Simple, smart and easy navigation interface]
 
-[Larabiz Application] is accessible, yet powerful.
+[PhotoShow] is accessible, yet powerful.
 
 ## Technology
 
-[Larabiz Application] was built with the power of Laravel by;
+[PhotoShow] was built with the power of Laravel by;
 
 - [Ezeugwa Gerrard](https://gerrarde.github.io/gerrard).
 
-The application is hosted at [Larabiz Application](#).
+The application is hosted at [PhotoShow](#).
 
 ## Contributing
 
@@ -22,7 +22,7 @@ Coming soon ...
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within [Larabiz Application], please create a pull request.
+If you discover a security vulnerability within [PhotoShow], please create a pull request.
 
 ## License
 
